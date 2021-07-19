@@ -1,0 +1,55 @@
+body{
+	background-color: #eeece6;
+	font-family: sans-serif;, Arial;
+		
+}
+
+
+header{
+	font-weight: 500;
+	padding: 0px;
+	background-color: #403934;
+	color: white;
+	
+}
+h1{
+	text-align: center;
+	font-size: 40px;
+}
+
+ h2{
+	text-align: center;
+	font-size: 20px;
+	font-family: arial;
+}
+
+
+img{
+	width: 400px;
+	height: 400;
+	
+}
+
+footer{
+	font-weight: 500;
+	padding: 0px;
+	background-color: #403934;
+	color: white;
+	
+
+}
+
+p{
+	font-size: 15px;
+}
+
+hr{
+	width: 50%;
+	justify-content: center;
+}
+
+
+.set-center{
+	display: flex;
+	justify-content: center;
+}
