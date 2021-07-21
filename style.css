@@ -1,12 +1,12 @@
 
-/* I want to make all fonts same font-family*/
+/* set all fonts in the page to sans-serif*/
 body{
 	background-color: #eeece6;
 	font-family: sans-serif;, Arial;
 		
 }
 
-
+/* make the header bigger on the page */
 header{
 	font-weight: 500;
 	padding: 0px;
@@ -23,7 +23,7 @@ h1{
  h2{
 	text-align: center;
 	font-size: 20px;
-	font-family: arial;
+	
 }
 
 
@@ -45,13 +45,13 @@ footer{
 p{
 	font-size: 15px;
 }
-/* make the horizontal line half of the page*/ 
+/* make the horizontal line in the middle of the page*/ 
 hr{
 	width: 50%;
 	justify-content: center;
 }
 
-
+/* everything that include set-center class will be displayed in the middle */
 .set-center{
 	display: flex;
 	justify-content: center;
