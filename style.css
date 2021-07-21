@@ -1,3 +1,5 @@
+
+/* I want to make all fonts same font-family*/
 body{
 	background-color: #eeece6;
 	font-family: sans-serif;, Arial;
@@ -43,7 +45,7 @@ footer{
 p{
 	font-size: 15px;
 }
-
+/* make the horizontal line half of the page*/ 
 hr{
 	width: 50%;
 	justify-content: center;
